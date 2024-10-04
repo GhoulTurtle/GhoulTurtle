@@ -1,17 +1,23 @@
 <h1>Hello, I'm Caleb! <br/><a href="https://github.com/GhoulTurtle">Programmer</a>, <a href="https://www.linkedin.com/in/caleb-richardson-402b94272/">Video Game Designer</a>, <a href="https://www.youtube.com/@ghoulturtle">YouTuber</a></h1>
 
 <h2>Unity Projects:</h2>
-- The Depths of Avalon
-  - 
-- Orgavita
-  -
 
-<h2>Learning Unity Projects:</h2>
-- Lost Connection (Local Summer Game Jam)
-- Cold Climb (PS1) (College Project)
+- <b>The Depths of Avalon (Group College Project)</b>
+  - TEMP
+  
+- <b>Orgavita</b>
+  - TEMP
 
 <h2>Learning Projects:</h2>
+
+- <b><a href="https://ghoulturtle.itch.io/lost-connection">Lost Connection (Local Summer Game Jam)</a></b>
+
+- <b><a href="https://ghoulturtle.itch.io/cold-climb-ps1">Cold Climb (PS1) (College Project)</a></b>
+
+<h2>Unity Systems:</h2>
+
 - Object Spawner
+
 - Troop Spawner and Controller
 
 <h2> Connect with me:</h2>
