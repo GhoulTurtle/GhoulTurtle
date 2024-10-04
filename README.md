@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1>Hello, I'm Caleb! <br/><a href="https://github.com/GhoulTurtle">Programmer</a>, <a href="https://www.linkedin.com/in/caleb-richardson-402b94272/">Video Game Designer</a>, <a href="https://www.youtube.com/@ghoulturtle">YouTuber</a></h1>
+
+<h2>Unity Projects:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="GhoulTurtle | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="CalebRichardson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/@ghoulturtle
+[linkedin]: https://www.linkedin.com/in/caleb-richardson
 
 <!--
 **GhoulTurtle/GhoulTurtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
