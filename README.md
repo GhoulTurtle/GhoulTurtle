@@ -1,6 +1,6 @@
 <h1>Hello, I'm Caleb! <br/><a href="https://github.com/GhoulTurtle">Programmer</a>, <a href="https://www.linkedin.com/in/caleb-richardson-402b94272/">Video Game Designer</a>
 
-<h2>Commerical Projects:</h2>
+<h2>Commercial Projects:</h2>
 
 - <b>The Depths of Avalon (Group College Project)</b>
   - TEMP
