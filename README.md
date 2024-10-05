@@ -1,6 +1,6 @@
 <h1>Hello, I'm Caleb! <br/><a href="https://github.com/GhoulTurtle">Programmer</a>, <a href="https://www.linkedin.com/in/caleb-richardson-402b94272/">Video Game Designer</a>
 
-<h2>Unity Projects:</h2>
+<h2>Commerical Projects:</h2>
 
 - <b>The Depths of Avalon (Group College Project)</b>
   - TEMP
@@ -24,8 +24,10 @@
 
 [<img align="left" alt="CalebRichardson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GhoulTurtle | Itch.io" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/itchdotio.svg" />][itchio]
-[<img align="left" alt="GhoulTurtle | X" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/x.svg" />][x]
+[<img align="left" alt="CalebRichardso | X" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/x.svg" />][x]
+[<img align="left" alt="GhoulTurtle | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+[youtube]: https://www.youtube.com/@ghoulturtle
 [linkedin]: https://www.linkedin.com/in/caleb-richardson-402b94272/
 [itchio]: https://ghoulturtle.itch.io
 [x]: https://x.com/CalebRichardso
