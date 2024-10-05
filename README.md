@@ -3,10 +3,18 @@
 <h2>Commercial Projects:</h2>
 
 - <b><a href=https://store.steampowered.com/app/2977590/The_Depths_of_Avalon/>The Depths of Avalon (Group College Project)</a></b>
-  - TEMP
+  - Character System
+    
+  - Ability System
+    
+  - Coop Multiplayer
   
-- <b>Orgavita</b>
-  - TEMP
+- <b>Orgavita (Solo Steam Project, ONGOING)</b>
+  - Inventory System
+    
+  - AI State Machine
+    
+  - Player Movement
 
 <h2>Learning Projects:</h2>
 
@@ -21,6 +29,8 @@
 - <b><a href=https://github.com/GhoulTurtle/ObjectSpawner>Object Spawner</a></b>
 
 - <b><a href=https://github.com/GhoulTurtle/Troop-Spawner-and-Controller>Troop Spawner and Controller</a></b>
+
+- <b>UI Animator</b>
 
 <h2>Connect with me:</h2>
 
