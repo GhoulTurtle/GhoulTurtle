@@ -9,7 +9,7 @@
     
   - Coop Multiplayer
   
-- <b>Orgavita (Solo Steam Project, ONGOING)</b>
+- <b>Orgavita (Ongoing, Solo Steam Project)</b>
   - Inventory System
     
   - AI State Machine
