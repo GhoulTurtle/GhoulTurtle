@@ -2,7 +2,7 @@
 
 <h2>Commercial Projects:</h2>
 
-- <b>The Depths of Avalon (Group College Project)</b>
+- <b><a href=https://store.steampowered.com/app/2977590/The_Depths_of_Avalon/>The Depths of Avalon (Group College Project)</a></b>
   - TEMP
   
 - <b>Orgavita</b>
