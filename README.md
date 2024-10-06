@@ -28,7 +28,7 @@
 
 - <b><a href=https://github.com/GhoulTurtle/ObjectSpawner>Object Spawner</a></b>
 
-- <b><a href=https://github.com/GhoulTurtle/Troop-Spawner-and-Controller>Troop Spawner and Controller</a></b>
+- <b><a href=https://github.com/GhoulTurtle/Troop-Spawner-and-Controller>Strategy Game Troops</a></b>
 
 - <b>UI Animator</b>
 
