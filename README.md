@@ -26,11 +26,11 @@
 
 <h2>Unity Systems:</h2>
 
+- <b>UI Animator</b>
+
 - <b><a href=https://github.com/GhoulTurtle/ObjectSpawner>Object Spawner</a></b>
 
 - <b><a href=https://github.com/GhoulTurtle/Troop-Spawner-and-Controller>Strategy Game Troops</a></b>
-
-- <b>UI Animator</b>
 
 <h2>Connect with me:</h2>
 
