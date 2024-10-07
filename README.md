@@ -26,7 +26,7 @@
 
 <h2>Unity Systems:</h2>
 
-- <b>UI Animator</b>
+- <b><a href=https://github.com/GhoulTurtle/UIAnimator>UI Animator</a></b>
 
 - <b><a href=https://github.com/GhoulTurtle/ObjectSpawner>Object Spawner</a></b>
 
