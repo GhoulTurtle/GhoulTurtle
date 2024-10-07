@@ -9,7 +9,7 @@
     
   - Coop Multiplayer
   
-- <b>Orgavita (Ongoing, Solo Steam Project)</b>
+- <b><a href=https://github.com/GhoulTurtle/Orgavita>Orgavita (Ongoing, Solo Steam Project)</a></b>
   - Inventory System
     
   - AI State Machine
