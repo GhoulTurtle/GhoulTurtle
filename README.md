@@ -2,14 +2,14 @@
 
 <h2>Commercial Projects:</h2>
 
-- <b><a href=https://store.steampowered.com/app/2977590/The_Depths_of_Avalon/>The Depths of Avalon (Group College Project)</a></b>
+- <b><a href=https://store.steampowered.com/app/2977590/The_Depths_of_Avalon/>The Depths of Avalon (Group College Project, 2024)</a></b>
   - Character System
     
   - Ability System
     
   - Coop Multiplayer
   
-- <b><a href=https://github.com/GhoulTurtle/Orgavita>Orgavita (Ongoing, Solo Steam Project)</a></b>
+- <b><a href=https://github.com/GhoulTurtle/Orgavita>Orgavita (Ongoing, Solo Steam Project, 2024)</a></b>
   - Inventory System
     
   - AI State Machine
@@ -18,19 +18,19 @@
 
 <h2>Learning Projects:</h2>
 
-- <b><a href="https://ghoulturtle.itch.io/lost-connection">Lost Connection (Local Summer Game Jam)</a></b>
+- <b><a href="https://ghoulturtle.itch.io/lost-connection">Lost Connection (Local Summer Game Jam, 2024)</a></b>
 
-- <b><a href="https://ghoulturtle.itch.io/cold-climb-ps1">Cold Climb (PS1) (College Project)</a></b>
+- <b><a href="https://ghoulturtle.itch.io/cold-climb-ps1">Cold Climb (PS1) (College Project, 2023)</a></b>
 
 - <b><a href=https://ghoulturtle.itch.io/a-bad-day-at-the-office> A Bad Day at The Office (GMTK Game Jam 2023)</a></b>
 
 <h2>Unity Systems:</h2>
 
-- <b><a href=https://github.com/GhoulTurtle/UIAnimator>UI Animator</a></b>
+- <b><a href=https://github.com/GhoulTurtle/UIAnimator>UI Animator (2024)</a></b>
 
-- <b><a href=https://github.com/GhoulTurtle/ObjectSpawner>Object Spawner</a></b>
+- <b><a href=https://github.com/GhoulTurtle/ObjectSpawner>Object Spawner (2023)</a></b>
 
-- <b><a href=https://github.com/GhoulTurtle/Troop-Spawner-and-Controller>Strategy Game Troops</a></b>
+- <b><a href=https://github.com/GhoulTurtle/Troop-Spawner-and-Controller>Strategy Game Troops (2023)</a></b>
 
 <h2>Connect with me:</h2>
 
