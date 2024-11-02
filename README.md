@@ -8,13 +8,6 @@
   - Ability System
     
   - Coop Multiplayer
-  
-- <b><a href=https://github.com/GhoulTurtle/Orgavita>Orgavita (Ongoing, Solo Steam Project, 2024)</a></b>
-  - Inventory System
-    
-  - AI State Machine
-    
-  - Player Movement
 
 <h2>Learning Projects:</h2>
 
