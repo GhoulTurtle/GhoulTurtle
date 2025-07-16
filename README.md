@@ -11,11 +11,11 @@
 
 <h2>Learning Projects:</h2>
 
+- <b><a href="https://ghoulturtle.itch.io/gun-divas-prototype"> Gun DIVAs Prototype (MVP for upcoming project, 2025)</a></b>
+
 - <b><a href="https://ghoulturtle.itch.io/lost-connection">Lost Connection (Local Summer Game Jam, 2024)</a></b>
 
 - <b><a href="https://ghoulturtle.itch.io/cold-climb-ps1">Cold Climb (PS1) (College Project, 2023)</a></b>
-
-- <b><a href=https://ghoulturtle.itch.io/a-bad-day-at-the-office> A Bad Day at The Office (GMTK Game Jam 2023)</a></b>
 
 <h2>Unity Systems:</h2>
 
