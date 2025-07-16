@@ -2,7 +2,7 @@
 
 <h2>Commercial Projects:</h2>
 
-- <b><a href=https://store.steampowered.com/app/2977590/The_Depths_of_Avalon/>The Depths of Avalon (Group College Project, 2024)</a></b>
+- <b><a href=https://store.steampowered.com/app/2977590/The_Depths_of_Avalon/>The Depths of Avalon (Programming Lead, 2024)</a></b>
   - Character System
     
   - Ability System
